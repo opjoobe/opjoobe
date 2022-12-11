@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 Programmers : 365th (2022.12.11)
 ![opjoobe progr](https://user-images.githubusercontent.com/102501872/206880510-d6664b6e-ff2b-4803-a2da-bcd600aca77e.jpg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opjoobe)](https://solved.ac/opjoobe/)
+
