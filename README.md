@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opjoobe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Algorithm : at least 1 PS per day. Programmers rank is as of Dec 11, 2022.
+### Algorithm : at least 1 PS per day. Programmers rank is as of Dec 18, 2022.
 
 ![opjoobe progr](https://user-images.githubusercontent.com/102501872/206880510-d6664b6e-ff2b-4803-a2da-bcd600aca77e.jpg)
 
