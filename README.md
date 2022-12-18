@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Algorithm : at least 1 PS per day. Programmers rank is as of Dec 18, 2022.
 
-![opjoobe progr](https://user-images.githubusercontent.com/102501872/206880510-d6664b6e-ff2b-4803-a2da-bcd600aca77e.jpg)
+![opjoobe progr](https://user-images.githubusercontent.com/102501872/208305418-6e5cb084-ad6c-400e-8e7c-be5169a47740.jpg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opjoobe)](https://solved.ac/opjoobe/)
 
