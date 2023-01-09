@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### Algorithm : at least 1 PS per day. Programmers rank is as of Jan 9, 2023.
 
-![opjoobe progr]([https://user-images.githubusercontent.com/102501872/208305418-6e5cb084-ad6c-400e-8e7c-be5169a47740.jpg](https://user-images.githubusercontent.com/102501872/211308189-fb7c1634-8f5f-49e8-af8b-77f8a4c15727.png))
+<!--![opjoobe progr]([https://user-images.githubusercontent.com/102501872/208305418-6e5cb084-ad6c-400e-8e7c-be5169a47740.jpg](https://user-images.githubusercontent.com/102501872/211308189-fb7c1634-8f5f-49e8-af8b-77f8a4c15727.png))-->
+
+<img width="902" alt="Screen Shot 2023-01-09 at 9 28 56 PM" src="https://user-images.githubusercontent.com/102501872/211308471-753ccd0f-a626-4d58-8b1f-9174c5a72aa7.png">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opjoobe)](https://solved.ac/opjoobe/)
 
