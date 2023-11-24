@@ -1,8 +1,6 @@
-### this is github of OPJOOBE 👋
+### this is github of OPJOOBE 💁🏻‍♂️
 
-Greetings! </br>
 I'm a backend engineer who pursues 'sustainability' in every aspect of my life.</br>
-Please checkout my experiences in LinkedIn : 😁 https://www.linkedin.com/in/joobe24/
 
 <!--
 **opjoobe/opjoobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +24,23 @@ Here are some ideas to get you started:
 
 <!--![opjoobe progr]([https://user-images.githubusercontent.com/102501872/208305418-6e5cb084-ad6c-400e-8e7c-be5169a47740.jpg](https://user-images.githubusercontent.com/102501872/211308189-fb7c1634-8f5f-49e8-af8b-77f8a4c15727.png))-->
 
-<img width="902" alt="Screen Shot 2023-01-09 at 9 28 56 PM" src="https://user-images.githubusercontent.com/102501872/211308471-753ccd0f-a626-4d58-8b1f-9174c5a72aa7.png">
+
+<img width="500" alt="Screen Shot 2023-01-09 at 9 28 56 PM" src="https://user-images.githubusercontent.com/102501872/211308471-753ccd0f-a626-4d58-8b1f-9174c5a72aa7.png">
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opjoobe)](https://solved.ac/opjoobe/)
 
+
+### Connect with me:
+
+<!-- [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website] -->
+<!-- [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube] -->
+<!-- [<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter] -->
+[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] 
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[website]: https://velog.io/@imysh578
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[linkedin]: https://linkedin.com/in/joobe24/
+[instagram]: https://instagram.com/joobe24
