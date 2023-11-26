@@ -1,6 +1,7 @@
-## Welcome to OPJOOBE's github 💁🏻‍♂️
+## 💁🏻‍♂️ Welcome to OPJOOBE's github 💁🏻‍♂️
 
-I'm a backend engineer who pursues **'sustainability'** in every aspect of my life.</br>
+- I'm a backend engineer who pursues **'sustainability'** in every aspect of my life! </br>
+- FYI : **'Joobe'** is a name that combines the names of two people: me and Kobe Bryant.
 
 ### 👨🏻‍💻 Work Experiences
 - **Kakaobrain** - Backend Engineer Intern (2023.06 ~ 2023.08)
@@ -40,13 +41,13 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opjoobe)](https://solved.ac/opjoobe/) -->
 
 
-### Connect with me:
+### 📫 Connect with me
 
 <!-- [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website] -->
 <!-- [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube] -->
 <!-- [<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter] -->
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] 
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+- [<img align="center" alt="SOKURI_CODE | LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+- [<img align="center" alt="SOKURI_CODE | Instagram" width="24px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [website]: https://velog.io/@imysh578
 [twitter]: https://twitter.com/
