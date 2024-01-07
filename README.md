@@ -1,10 +1,10 @@
 ## 💁🏻‍♂️ Welcome to OPJOOBE's github 💁🏻‍♂️
 
-- I'm a backend engineer who pursues **'sustainability'** in every aspect of my life! </br>
+- I'm a software engineer who pursues **'sustainability'** in every aspect of my life! </br>
 - FYI : **'Joobe'** is a name that combines the names of two people: me and Kobe Bryant.
 
 ### 👨🏻‍💻 Work Experiences
-- **Kakaobrain** - Backend Engineer Intern (2023.06 ~ 2023.08)
+- **Kakaobrain** - Backend Developer Intern (2023.06 ~ 2023.08)
 - **Kakao** - Database Platform Engineer Intern (2022.12 ~ 2023.02)
 - **Handsome** - Accounting Assistant Manager (2021.01 ~ 2022.02)
 
