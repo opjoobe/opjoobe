@@ -4,6 +4,9 @@
 - FYI : **'Joobe'** is a name that combines the names of two people: me and Kobe Bryant.
 
 ### 👨🏻‍💻 Work Experiences
+
+- **Naver** - Backend Engineer (2024.07 ~ )
+- **Hyundai Autoever** - Software Engineer (2024.01 ~ 2024.06)
 - **Kakaobrain** - Backend Developer Intern (2023.06 ~ 2023.08)
 - **Kakao** - Database Platform Engineer Intern (2022.12 ~ 2023.02)
 - **Handsome** - Accounting Assistant Manager (2021.01 ~ 2022.02)
